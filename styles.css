@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+#titulo{
+    text-align: center;
+    background:pink;
+    max-width: 330px;
+    padding: 15px;
+    display: flex;
+    margin: auto;
+
+}
+.contenedor{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+    background-color: #E2E2E2;
+}
